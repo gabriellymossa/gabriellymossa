@@ -1,6 +1,6 @@
 <h1>Oi! Eu sou a Gaby :)</h1>
 
-Sou apaixonada por tecnologia e atualmente atuo na área de desenvolvimento Front-end, com foco em oferecer soluções eficientes e experiências digitais de qualidade. Tenho conhecimentos em linguagens e tecnologias como HTML5, CSS3, JavaScript, TypeScript, React e MySQL, que utilizo para criar interfaces modernas, acessíveis e funcionais.
+Sou apaixonada por tecnologia e atualmente atuo na área de desenvolvimento Front-end, com foco em oferecer soluções eficientes e experiências digitais de qualidade. Tenho conhecimentos em linguagens e tecnologias como HTML5, CSS3, JavaScript, TypeScript, Angular, React e MySQL, que utilizo para criar interfaces modernas, acessíveis e funcionais.
 
 Formada em Análise e Desenvolvimento de Sistemas, estou sempre em busca de evolução contínua, tanto técnica quanto pessoal. Atualmente, curso uma pós-graduação em Engenharia de Software com DevOps, o que tem ampliado minha visão sobre integração de processos, automação e entrega contínua de software.
 

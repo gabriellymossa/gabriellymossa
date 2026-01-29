@@ -1,6 +1,6 @@
 <h1>Oi! Eu sou a Gaby :)</h1>
 
-Sou apaixonada por tecnologia e atualmente atuo na área de desenvolvimento Front-end, com foco em oferecer soluções eficientes e experiências digitais de qualidade. Tenho conhecimentos em linguagens e tecnologias como HTML5, CSS3, JavaScript, TypeScript, Angular, React e MySQL, que utilizo para criar interfaces modernas, acessíveis e funcionais.
+Sou apaixonada por tecnologia e atualmente atuo na área de desenvolvimento Front-end, com foco em oferecer soluções eficientes e experiências digitais de qualidade. Tenho conhecimentos em linguagens e tecnologias como HTML5, CSS3, JavaScript, TypeScript, React e MySQL, que utilizo para criar interfaces modernas, acessíveis e funcionais.
 
 Formada em Análise e Desenvolvimento de Sistemas, estou sempre em busca de evolução contínua, tanto técnica quanto pessoal. Atualmente, curso uma pós-graduação em Engenharia de Software com DevOps, o que tem ampliado minha visão sobre integração de processos, automação e entrega contínua de software.
 
@@ -12,7 +12,6 @@ Acredito no aprendizado constante, na colaboração e na construção de soluç�
 <div style="display: inline_block"><br>
   <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gaby-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gaby-Angular" height="45" width="45" src="https://v7.angular.cn/assets/images/logos/angular/angular.svg">
   <img align="center" alt="Gaby-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gaby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gaby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
